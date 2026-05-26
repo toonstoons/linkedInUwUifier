@@ -1,0 +1,28 @@
+# LinkedIn UwUifier - Additional Files
+
+
+/screenshots/
+
+# Chrome Extension
+*.crx
+*.pem
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
