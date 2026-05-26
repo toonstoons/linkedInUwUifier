@@ -60,8 +60,9 @@ Reload LinkedIn after changing settings.
 - `popup.html/js/css` - Settings UI
 
 Uses MutationObserver to catch new posts, processes text nodes directly to preserve links, stores settings with chrome.storage.sync
-## License
+## Debug
 - Check the extension popup to verify it's enabled
+- Enable debug 
 - Reload LinkedIn (Ctrl+R / Cmd+R)
 - Open console (F12) and look for "LinkedIn UwUifier initialized!"
 - If nothing works, LinkedIn probably changed their DOM structure
