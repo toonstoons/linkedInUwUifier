@@ -54,6 +54,7 @@ Click the extension icon to adjust:
 
 Reload LinkedIn after changing settings.
 
+### project
 *   Uses a `MutationObserver` to watch the DOM and instantly catch new posts as they lazy-load.
 - `uwuify.js` - Core transformation logic
 - `content.js` - Finds and transforms LinkedIn posts
