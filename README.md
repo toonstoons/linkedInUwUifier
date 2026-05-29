@@ -2,8 +2,6 @@
 
 A browser extension that transforms LinkedIn posts into uwu-speak for your own entertainment. Inspired by [uwuipy](https://github.com/Cuprum77/uwuipy).
 
-Changes are local only - other people see normal posts, you see the uwuified version.
-
 ## Disclaimer
 
 This extension is held together with DOM selectors and will probably break when LinkedIn updates their UI. Built purely for entertainment. Use at your own risk, and maybe disable it before job interviews.
